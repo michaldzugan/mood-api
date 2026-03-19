@@ -1,0 +1,5 @@
+Patient: Jane Doe
+Age: 45
+Blood pressure: 118/76 mmHg
+Heart rate: 72 bpm
+Notes: Regular checkup
